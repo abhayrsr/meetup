@@ -10,7 +10,7 @@ const EventsSchema = new mongoose.Schema({
     thumbnail: String,
     tags: {
         type: [String],
-        enum: ["marketing", "technology", "film-making","digital", "in-person"]
+        enum: ["marketing", "technology", "film-making", "fitness", "design", "relation", "digital", "in-person"]
     },
     additionalInfo:{
         dressCode: {type: String},

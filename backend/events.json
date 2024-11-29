@@ -1,0 +1,100 @@
+[{
+    "title": "Tech Conference",
+    "date": "2024-10-15T09:00:00Z",
+    "typeOfEvent": "Online",
+    "thumbnail": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tags": ["technology", "digital"],
+    "additionalInfo": {
+        "dressCode": "casual",
+        "ageRestriction": "18 and above"
+    },
+    "sessionStartTime": "2024-10-15T09:00:00Z",
+    "sessionEndTime": "2024-10-15T15:00:00Z",
+    "speakers": ["John Doe", "Meera Nova"],
+    "pricing": 3000,
+    "address": "San Diego Auditorium, near silly-street watson road"
+},
+{
+    "title": "Marketing Conference",
+    "date": "2024-10-19T09:00:00Z",
+    "typeOfEvent": "Online",
+    "thumbnail": "https://images.pexels.com/photos/267350/pexels-photo-267350.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tags": ["marketing", "digital"],
+    "additionalInfo": {
+        "dressCode": "formal",
+        "ageRestriction": "18 and above"
+    },
+    "sessionStartTime": "2024-10-19T09:00:00Z",
+    "sessionEndTime": "2024-10-19T15:00:00Z",
+    "speakers": ["Nova Jo", "Hera Nanda"],
+    "pricing": 2000,
+    "address": "LA Auditorium, near funny-street sherlock road"
+
+}, 
+{
+    "title": "Film-making Conference",
+    "date": "2024-10-22T12:00:00Z",
+    "typeOfEvent": "Offline",
+    "thumbnail": "https://images.pexels.com/photos/320617/pexels-photo-320617.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tags": ["film-making", "in-person"],
+    "additionalInfo": {
+        "dressCode": "casual",
+        "ageRestriction": "18 and above"
+    },
+    "sessionStartTime": "2024-10-22T12:00:00Z",
+    "sessionEndTime": "2024-10-22T15:00:00Z",
+    "speakers": ["John Doe", "Meera Nova"],
+    "pricing": 10000,
+    "address": "Lincoln Auditorium, near sassy-street Lincoln road"
+},
+{
+    "title": "Designing Conference",
+    "date": "2024-10-26T12:00:00Z",
+    "typeOfEvent": "Offline",
+    "thumbnail": "https://images.pexels.com/photos/4491459/pexels-photo-4491459.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tags": ["marketing", "in-person"],
+    "additionalInfo": {
+        "dressCode": "casual",
+        "ageRestriction": "18 and above"
+    },
+    "sessionStartTime": "2024-10-26T12:00:00Z",
+    "sessionEndTime": "2024-10-26T15:00:00Z",
+    "speakers": ["Joma Tech", "Ryzen Doom"],
+    "pricing": 5000,
+    "address": "AMD Auditorium, near cozy-street HP road"
+},
+{
+    "title": "Fitness Conference",
+    "date": "2024-10-28T10:00:00Z",
+    "typeOfEvent": "Online",
+    "thumbnail": "https://images.pexels.com/photos/29536954/pexels-photo-29536954/free-photo-of-amateur-soccer-match-in-hanoi-vietnam.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "tags": ["fitness", "digital"],
+    "additionalInfo": {
+        "dressCode": "casual",
+        "ageRestriction": "18 and above"
+    },
+    "sessionStartTime": "2024-10-28T10:00:00Z",
+    "sessionEndTime": "2024-10-28T14:00:00Z",
+    "speakers": ["Jamie", " Dutton"],
+    "pricing": 7000,
+    "address": "Cowboy Auditorium, near rough-street Montanna road"
+},
+{
+    "title": "Relation Conference",
+    "date": "2024-10-27T14:00:00Z",
+    "typeOfEvent": "Online",
+    "thumbnail": "https://images.pexels.com/photos/29530138/pexels-photo-29530138/free-photo-of-romantic-couple-relaxing-by-sao-paulo-lake.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "tags": ["relation", "digital"],
+    "additionalInfo": {
+        "dressCode": "casual",
+        "ageRestriction": "18 and above"
+    },
+    "sessionStartTime": "2024-10-27T14:00:00Z",
+    "sessionEndTime": "2024-10-27T16:00:00Z",
+    "speakers": ["Jessica", "John"],
+    "pricing": 7000,
+    "address": "Santo Auditorium, near cold-street high road"
+},
+{
+
+}]
