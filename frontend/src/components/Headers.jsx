@@ -6,7 +6,7 @@ const Headers = () => {
     <>
       <nav className="navbar bg-body-tertiary ">
         <div className="container">
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand" href="/">
             <img src={image} alt="meetup" width="120" height="50" />
           </a>
 
