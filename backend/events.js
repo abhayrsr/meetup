@@ -52,6 +52,19 @@ app.get("/events", async(req,res) => {
     }
 })
 
+app.get("/events/:Id", async(req, res) => {
+    try {
+        const events = await Events.findById(req.params.Id)
+        if(events.length != 0){
+            res.status(200).json(events)
+        } else {
+            res.status(404).json({"error": "No event found"})
+        }
+    } catch (error) {
+        res.status(501).json({"error": "Failed to fetched events"})
+    }
+})
+
 
 app.listen('3001', () => {
     console.log("App is listening to port 3001")
